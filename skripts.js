@@ -2,7 +2,7 @@ jQuery(document).ready(function () {
 
 	// fade out splash
 	setTimeout(function() {
-	    $('#splash').fadeOut(600);
-	}, 4000);
+	    $('#splash').fadeOut(1000);
+	}, 6000);
 
 });

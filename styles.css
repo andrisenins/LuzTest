@@ -1,16 +1,16 @@
 * { 
 
-	-webkit-transition:all 200ms ease-in-out;
+	-webkit-transition:all 400ms ease-in-out;
 
-	-moz-transition:all 200ms ease-in-out;
+	-moz-transition:all 400ms ease-in-out;
 
 }
 
 #menu li.page_item a:hover { 
 
-	-webkit-transition:all 1ms ease-in-out;
+	-webkit-transition:all 1000ms ease-in-out;
 
-	-moz-transition:all 1ms ease-in-out;
+	-moz-transition:all 1000ms ease-in-out;
 
 }
 
