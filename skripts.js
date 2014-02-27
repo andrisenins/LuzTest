@@ -1,8 +1,4 @@
-jQuery(document).ready(function () {
-
-	// fade out splash
-	setTimeout(function() {
-	    $('#splash').fadeOut(1000);
-	}, 6000);
-
+$(document).ready(function() {
+	$('#stuff').hide(0).delay( 4600 ).show(0);
+	$('#splashScreen').show(0).delay(4200).fadeOut(400);
 });
