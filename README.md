@@ -1,4 +1,4 @@
-LuzTest
-=======
+luz
+-----
 
-Luz iFrame test with phonegap
+LU Ziņnesis splash screen with iframe, bit lame, but such is life.
